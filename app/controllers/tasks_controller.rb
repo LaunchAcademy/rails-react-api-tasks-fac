@@ -1,6 +1,6 @@
 class TasksController < ApplicationController
   def index
-    # binding.pry
+    binding.pry
     # still render the template
   end
 end
